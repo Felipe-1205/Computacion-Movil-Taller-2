@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">supertaller2</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="maps_api_key">AIzaSyAkCVvrQxPhVOvmfwRmH81OENf1yGXIiZU</string>
+</resources>
